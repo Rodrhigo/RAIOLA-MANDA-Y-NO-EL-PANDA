@@ -9,7 +9,7 @@ Tienen que darle a la opción "Clone or Download" y luego le dan a "Download Zip
 
 Buscame en las SERPS tengo el título "Raiola Manda Y No El Panda - Concurso SEO 2017", estoy por la página 12 porque recien ahora comienzo a publicar.
 
-
+![alt text](http://raiolapanda.com/wp-content/uploads/2017/06/raiola-manda-no-panda.jpg)
 
 El concurso solo dura 25 días ¿Quien ganara White Hat SEO o Black Hat SEO?
 
