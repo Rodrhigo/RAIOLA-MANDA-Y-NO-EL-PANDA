@@ -13,4 +13,4 @@ Buscame en las SERPS tengo el título "Raiola Manda Y No El Panda - Concurso SEO
 
 El concurso solo dura 25 días ¿Quien ganara White Hat SEO o Black Hat SEO?
 
-[a link](https://github.com/user/repo/blob/branch/other_file.md)
+[Raiola Manda Y No El Panda](http://raiolapanda.com)
