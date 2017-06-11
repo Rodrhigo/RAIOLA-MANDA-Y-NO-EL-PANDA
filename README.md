@@ -4,7 +4,7 @@ El Script del juego se encuentra en la carpeta "script" con el nombre "raiola-ma
 
 ![alt text](http://raiolapanda.com/wp-content/uploads/2017/06/panda-google-277x300.png)
 
-Se envia y solicita Score de la tabla de posiciones en formato JSON por lo que todos pueden colocar su nickname o website y se vera en todos los sitios que utilicen el juego. Se extraen las posiciones desde la siguiente dirección
+Se envia y solicita el Score de la tabla de posiciones en formato JSON por lo que todos pueden colocar su nickname o website y se vera en todos los sitios que utilicen el juego. Se extraen las posiciones desde la siguiente dirección
 ```
 https://autouploader.net/score.php
 ```
@@ -40,6 +40,9 @@ http://example.com/raiola-manda-y-no-el-panda
 //Las texturas buscan la carpeta "script" en
 http://example.com/script/
 ```
+
+*No soy dueño de los recursos usados en este juego*
+**Puedes usar el Script libremente.**
 
 Saludos y que gane el mejor.
 
