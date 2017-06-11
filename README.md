@@ -41,8 +41,7 @@ http://example.com/raiola-manda-y-no-el-panda
 http://example.com/script/
 ```
 
-*No soy dueño de los recursos usados en este juego*.
-**Puedes usar el Script libremente.**
+**Puedes usar el Script libremente.** pero dejo en claro que *No soy dueño de los recursos usados en este juego*
 
 Saludos y que gane el mejor.
 
