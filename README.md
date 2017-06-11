@@ -2,7 +2,7 @@
 
 El Script del juego se encuentra en la carpeta "script" y se llama "raiola-manda-y-no-el-panda.js" y es un juego hecho en HTML5 que ahora conecta la tabla de posiciones con una base de datos remota.
 
-![alt text](http://raiolapanda.com/wp-content/uploads/2017/06/panda-google.png)
+![alt text](http://raiolapanda.com/wp-content/uploads/2017/06/panda-google-277x300.png)
 
 Se envia y solicita Score de la tabla de posiciones en formato JSON por lo que todos pueden colocar su nickname o website y se vera en todos los sitios que utilicen el juego. Se extraen las posiciones desde la siguiente dirección
 ```
