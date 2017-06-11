@@ -1,6 +1,6 @@
 # Raiola Manda Y No El Panda
 
-El Script del juego se encuentra en la carpeta "script" y se llama "raiola-manda-y-no-el-panda.js" y es un juego hecho en HTML5 que ahora conecta la tabla de posiciones con una base de datos remota.
+El Script del juego se encuentra en la carpeta "script" con el nombre "raiola-manda-y-no-el-panda.js" y es un juego hecho en HTML5 que ahora conecta la tabla de posiciones con una base de datos remota.
 
 ![alt text](http://raiolapanda.com/wp-content/uploads/2017/06/panda-google-277x300.png)
 
