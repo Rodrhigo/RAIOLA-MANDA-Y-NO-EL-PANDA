@@ -4,14 +4,14 @@ El Script del juego se encuentra en la carpeta "script" con el nombre "raiola-ma
 
 ![alt text](http://raiolapanda.com/wp-content/uploads/2017/06/panda-google-277x300.png)
 
+Pueden probar un ejemplo del juego ejecutando "example.html" desde
+```
+[https://cdn.rawgit.com/Rodrhigo/RAIOLA-MANDA-Y-NO-EL-PANDA/378e72b4/example.html](https://cdn.rawgit.com/Rodrhigo/RAIOLA-MANDA-Y-NO-EL-PANDA/378e72b4/example.html)
+```
+
 Se envia y solicita el Score de la tabla de posiciones en formato JSON por lo que todos pueden colocar su nickname o website y se vera en todos los sitios que utilicen el juego. Se extraen las posiciones desde la siguiente dirección
 ```
 https://autouploader.net/score.php
-```
-
-Pueden probar un ejemplo del juego ejecutando "example.html" desde
-```
-https://cdn.rawgit.com/Rodrhigo/RAIOLA-MANDA-Y-NO-EL-PANDA/378e72b4/example.html
 ```
 
 Si lo deseas descargar tienes que darle a la opción "Clone or Download" y luego le dan a "Download Zip" y para descomprimir solo necesitan alguna aplicación como Winrar y luego puedes ejecutar "example.html" para probar(si lo ejecutas localmente y no en un servidor no se reproducira el sonido y saldrá una advertencia).
@@ -32,6 +32,7 @@ Cuando se ejecuta el Script deben saber que el navegador buscara las texturas en
 http://example.com/raiola-manda-y-no-el-panda/
 //Busca la carpeta "script" en
 http://example.com/raiola-manda-y-no-el-panda/script/
+//Por lo que deberas crear la carpeta y colocar la carpeta script ahí
 ```
 
 Mientras que si tu URL no termina en slash 
