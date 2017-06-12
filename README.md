@@ -19,7 +19,7 @@ Si lo deseas descargar tienes que darle a la opción "Clone or Download" y luego
 # Script del Juego
 Para cargar el script debes pegar este código en la posición en donde quieras que aparezca.
 ```
-<div id="raiola-manda-no-el-panda-script" style="position:relative;float:left;">
+<div id="raiola-manda-no-el-panda-script" style="position:relative;float:left;width:650px;height:500px;">
 <canvas id="canvas" width="650" height="500" style="image-rendering: optimizeSpeed; -webkit-interpolation-mode: nearest-neighbor; -ms-touch-action: none; margin: 0px; padding: 0px; border: 0px;width: 100%; height: 100%;">
 <p>Your browser doesn't support HTML5 canvas.</p>
 </canvas>
