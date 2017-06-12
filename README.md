@@ -5,7 +5,6 @@ El Script del juego se encuentra en la carpeta "script" con el nombre "raiola-ma
 ![alt text](http://raiolapanda.com/wp-content/uploads/2017/06/panda-google-277x300.png)
 
 Pueden probar un ejemplo del juego ejecutando "example.html" desde
-```
 [https://cdn.rawgit.com/Rodrhigo/RAIOLA-MANDA-Y-NO-EL-PANDA/378e72b4/example.html](https://cdn.rawgit.com/Rodrhigo/RAIOLA-MANDA-Y-NO-EL-PANDA/378e72b4/example.html)
 ```
 
