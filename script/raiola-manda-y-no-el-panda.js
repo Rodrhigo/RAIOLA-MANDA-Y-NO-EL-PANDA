@@ -1,7 +1,7 @@
  target﻿function raiola_manda_y_no_el_panda(User,Score){
 	var str = "";
 	for(i=0; i<User.length; i++){
-		str += "<tr><td class='Nickname'><a href=\""+User[i]+"\" target=\"_blank\">"+User[i]+"</a></td><td class='Score'>"+Score[i]+"</td></tr>";
+		str += "<tr><td class='Nickname'><a href=\""+User[i]+"\" target='_blank'>"+User[i]+"</a></td><td class='Score'>"+Score[i]+"</td></tr>";
 	}
 	if(str!="")	document.getElementById('Tabla_Posiciones_Body').innerHTML = str;
 }
