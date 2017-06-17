@@ -50,6 +50,6 @@ http://example.com/script/
 
 **Puedes usar el Script libremente** pero dejo en claro que *No soy dueño de los recursos usados en este juego*
 
-###[Descargar Raiola Manda y No El Panda - Script Juego](https://autouploader.net/raiola-manda-y-no-el-panda/)
+### [Descargar Raiola Manda y No El Panda - Script Juego](https://autouploader.net/raiola-manda-y-no-el-panda/)
 
 
