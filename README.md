@@ -19,7 +19,7 @@ Si lo deseas descargar tienes que darle a la opción "Clone or Download" y luego
 # Script del Juego
 La opción más fácil es por medio de un iframe hacia el repositorio, pueden usar RawGit obtener una copia del estado actual de repositorio y pueden hacer una incrustación simplemente pegando este código en su web.
 ```
-<iframe id="raiola-manda-y-no-el-panda-juego" src="https://cdn.rawgit.com/Rodrhigo/RAIOLA-MANDA-Y-NO-EL-PANDA/df6489af/example.html" width="100%" height="500" frameborder="0" scrolling="no"></iframe>
+<iframe id="raiola-manda-y-no-el-panda-juego" src="https://cdn.rawgit.com/Rodrhigo/RAIOLA-MANDA-Y-NO-EL-PANDA/5ff54ea3/example.html" width="100%" height="500" frameborder="0" scrolling="no"></iframe>
 ```
 
 La segunda opción y más difícil es cargar subir el script a tu web y para cargarlo debes pegar este código en la posición en donde quieras que aparezca.
