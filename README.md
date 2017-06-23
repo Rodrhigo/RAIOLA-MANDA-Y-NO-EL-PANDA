@@ -16,7 +16,7 @@ https://autouploader.net/score.php
 
 Si lo deseas descargar tienes que darle a la opción "Clone or Download" y luego le dan a "Download Zip" y para descomprimir solo necesitan alguna aplicación como Winrar y luego puedes ejecutar "example.html" para probar(si lo ejecutas localmente y no en un servidor no se reproducira el sonido y saldrá una advertencia).
 
-# Script del Juego
+## Script del Juego
 La opción más fácil es por medio de un iframe hacia el repositorio, pueden usar RawGit obtener una copia del estado actual de repositorio y pueden hacer una incrustación simplemente pegando este código en su web.
 ```
 <iframe id="raiola-manda-y-no-el-panda-juego" src="https://cdn.rawgit.com/Rodrhigo/RAIOLA-MANDA-Y-NO-EL-PANDA/5ff54ea3/example.html" width="100%" height="500" frameborder="0" scrolling="no"></iframe>
@@ -50,6 +50,7 @@ http://example.com/script/
 
 **Puedes usar el Script libremente** pero dejo en claro que *No soy dueño de los recursos usados en este juego*
 
-### [Descargar Raiola Manda y No El Panda - Script Juego](https://autouploader.net/raiola-manda-y-no-el-panda/)
+**[Descargar Raiola Manda y No El Panda - Script Juego](https://autouploader.net/raiola-manda-y-no-el-panda/) **
+También puedes revisar el libro **[Raiola Manda y No El Panda de Jaime Bermejo](http://jaimebermejo.com/raiola-manda-y-no-el-panda/)** que explicá el cómo se puede ganar un concurso SEO y entra en más detalle sobre las técnicas que puedes usar.
 
 
