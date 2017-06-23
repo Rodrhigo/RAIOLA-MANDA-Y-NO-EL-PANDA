@@ -50,7 +50,7 @@ http://example.com/script/
 
 **Puedes usar el Script libremente** pero dejo en claro que *No soy dueño de los recursos usados en este juego*
 
-**[Descargar Raiola Manda y No El Panda - Script Juego](https://autouploader.net/raiola-manda-y-no-el-panda/) **
-También puedes revisar el libro **[Raiola Manda y No El Panda de Jaime Bermejo](http://jaimebermejo.com/raiola-manda-y-no-el-panda/)** que explicá el cómo se puede ganar un concurso SEO y entra en más detalle sobre las técnicas que puedes usar.
+Puedes [Descargar Raiola Manda y No El Panda - Script Juego](https://autouploader.net/raiola-manda-y-no-el-panda/) o 
+también puedes revisar el libro **[Raiola Manda y No El Panda de Jaime Bermejo](http://jaimebermejo.com/raiola-manda-y-no-el-panda/)** que explicá el cómo se puede ganar un concurso SEO y entra en más detalle sobre las técnicas que puedes usar.
 
 
